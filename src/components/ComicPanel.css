@@ -1,0 +1,12 @@
+.comic-panel {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 2rem;
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  
+  .comic-panel img {
+    max-width: 100%;
+    display: block; /* remove extra space below the image */
+  }
+  
